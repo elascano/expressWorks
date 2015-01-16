@@ -9,6 +9,9 @@ app.post('/form', function(req, res) {
 })
 
 app.listen(process.argv[2])
+
+//IT LOOKS I AM GETTING TO IT. BUT COMMAND LINE IS BETTER
+
 /*var express = require('express')
 var bodyParser = require('body-parser')
 var app = express()
