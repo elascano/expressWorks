@@ -1,0 +1,22 @@
+HELLO WORLD!
+var express = require('express')
+var app = express()
+app.get('/home', function(req, res) {
+  res.end('Hello World!')
+})
+app.listen(process.argv[2])
+
+    » JADE
+
+
+    » GOOD OLD FORM
+
+    » STATIC
+
+    » STYLISH CSS
+
+    » PARAM PAM PAM
+
+    » WHAT'S IN QUERY
+
+    » JSON ME
